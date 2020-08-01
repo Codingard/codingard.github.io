@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(51, 5, 45);
+    margin: auto;
+    font-size: large;
+    color: rgba(255, 248, 220, 0.664);
+}
+ul{
+    list-style-type: none;
+}
+
+a:link {
+    color: #ff04ff;
+    text-decoration: none;
+}
+a:visited {color: #00f7ff}
+a:hover {color: rgb(255, 204, 0)}
+a:active {color: rgb(255, 0, 0)}
